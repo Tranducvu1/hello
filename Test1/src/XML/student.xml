@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studentList>
+	<stlist id="1">
+		<age>19</age>
+		<name>Vu</name>
+	</stlist>
+	<stlist id="2">
+		<age>19</age>
+		<name>Toan</name>
+	</stlist>
+	<stlist id="4">
+		<age>19</age>
+		<name>Quang</name>
+	</stlist>
+	<stlist id="1">
+		<age>1</age>
+		<name>1</name>
+	</stlist>
+</studentList>
